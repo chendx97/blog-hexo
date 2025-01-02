@@ -107,8 +107,21 @@ cover:
   # 选择: left/right/both
   position: both
   # 当未设置封面时，显示默认封面
+  # 以下图片取自 https://blush.design/categories/education
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover1.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover2.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover3.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover4.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover5.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover6.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover7.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover8.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover9.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover10.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover11.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover12.png
+    - https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover13.png
 
 # 替换损坏的图片
 error_img:
