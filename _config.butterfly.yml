@@ -1209,6 +1209,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/custom.css">
+    - <script type="text/javascript" src="/baidu.js"></script>
   bottom:
     # - <script src="xxxx"></script>
 
