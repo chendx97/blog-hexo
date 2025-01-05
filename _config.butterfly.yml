@@ -210,7 +210,7 @@ index_layout: 3
 # 3: 自动摘要（默认）
 # false: 不显示文章简介
 index_post_content:
-  method: 3
+  method: 2
   # 如果设置 method 为 2 或 3，需要配置长度
   length: 500
 
