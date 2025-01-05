@@ -15,6 +15,7 @@ menu:
   Home: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
@@ -46,7 +47,8 @@ code_blocks:
 # 格式:
 #   icon: 链接 || 描述 || 颜色
 social:
-
+  fab fa-github: https://github.com/chendx97 || Github || "#1f2328"
+  fas fa-fish: https://juejin.cn/user/638161460403287/ || 掘金 || "#007fff"
 # --------------------------------------
 # 图片设置
 # --------------------------------------
