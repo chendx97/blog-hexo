@@ -5,7 +5,6 @@ tags:
   - canvas
 categories:
   - HTML
-  - CSS
 cover: 
 ---
 

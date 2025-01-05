@@ -6,7 +6,6 @@ tags:
   - cursor
 categories:
   - bug
-  - CSS
 cover: 
 ---
 

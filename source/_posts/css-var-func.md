@@ -2,7 +2,7 @@
 title: CSS变量和CSS函数
 date: 2024-09-23 10:00:00
 tags:
-  - CSS语法
+  - css
 categories:
   - CSS
 cover: https://cdn.jsdelivr.net/gh/chendx97/CPics/img/cover%20(2).png

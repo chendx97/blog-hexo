@@ -5,7 +5,6 @@ tags:
   - node
   - 502
 categories:
-  - 请求
   - bug
 cover: 
 ---
