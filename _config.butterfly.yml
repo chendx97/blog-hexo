@@ -804,7 +804,7 @@ baidu_analytics:
 
 # 谷歌分析配置
 # 官方网站：https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-EBK06Q8TES
 
 # Cloudflare 分析配置
 # 官方网站：https://www.cloudflare.com/zh-tw/web-analytics/
@@ -823,13 +823,13 @@ google_adsense:
   # 是否启用
   enable: false
   # 是否自动投放广告
-  auto_ads: true
+  auto_ads: false
   # 广告脚本 URL
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
   # 客户 ID
   client:
   # 是否启用页面级广告
-  enable_page_level_ads: true
+  enable_page_level_ads: false
 
 # 手动插入广告配置，如果不需要广告则留空
 ad:
@@ -846,8 +846,8 @@ ad:
 
 site_verification:
   # 示例：
-  # - name: google-site-verification
-  #   content: xxxxxx
+  - name: google-site-verification
+    content: HljFIBvOBSafm6cxK-G9vaYmyeliHlbLa1vm7F6gsSc
   # - name: baidu-site-verification
   #   content: xxxxxxx
 
