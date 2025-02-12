@@ -16,8 +16,9 @@ menu:
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
+  项目: /projects/ || fas fa-file-code
   友链: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  # 关于: /about/ || fas fa-heart
 
 # --------------------------------------
 # 代码块设置
