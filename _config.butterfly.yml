@@ -308,7 +308,7 @@ footer:
     # 网站创建年份
     since: 2023
   # 自定义文本
-  custom_text:
+  custom_text: <a href="https://beian.miit.gov.cn"><span>浙ICP备2025152522号</span></a>
   # 主题和框架的版权声明
   copyright: true
 
