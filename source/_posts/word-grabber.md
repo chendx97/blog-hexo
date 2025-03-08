@@ -19,13 +19,12 @@ cover: https://cdn.jsdelivr.net/gh/chendx97/CPics/img/20250308231025.png
 4.在微信小程序中复习单词；
 
 浏览器插件：
+
 ![收藏](https://cdn.jsdelivr.net/gh/chendx97/CPics/img/%E6%8D%95%E8%8E%B7.PNG)    
 
 微信小程序：
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/chendx97/CPics/img/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=2939459660525401730&skey=@crypt_cdc12483_e19fff210baa331bceb7d5e632dfe330&mmweb_appid=wx_webfilehelper.jfif" width="45%"/>
-  <img src="https://cdn.jsdelivr.net/gh/chendx97/CPics/img/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=4690506725294686158&skey=@crypt_cdc12483_e19fff210baa331bceb7d5e632dfe330&mmweb_appid=wx_webfilehelper.jfif" width="45%"/>
-</div>
+
+![小程序](https://cdn.jsdelivr.net/gh/chendx97/CPics/img/20250308231025.png)
 
 # 开发浏览器插件注意事项
 ## content.js与background.js的区别
