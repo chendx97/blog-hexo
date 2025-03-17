@@ -146,4 +146,7 @@ wx.uploadFile({
 # 总结
 这是一个日常用得上的项目，又锻炼了开发浏览器插件、微信小程序、node。最复杂的是扫码登录那块。
 
-ps: 因为发布浏览器插件需要付费，so...
+ps: 因为发布浏览器插件需要付费，so，可以通过 [下载插件](https://github.com/chendx97/word-grabber-extension) 来手动安装浏览器插件。   
+
+小程序二维码：
+![小程序二维码](https://cdn.jsdelivr.net/gh/chendx97/CPics/img/%E5%B0%8F%E7%A8%8B%E5%BA%8F.png) 
