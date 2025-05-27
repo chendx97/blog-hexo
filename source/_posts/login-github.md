@@ -6,7 +6,7 @@ tags:
   - 登录
 categories:
   - 指南
-cover: 
+cover: https://cdn.jsdelivr.net/gh/chendx97/CPics/img/20250527224028.png
 ---
 
 github登录通过**OAuth**协议接入第三方平台，用户无需注册新账号。下面详细介绍一下接入流程。

@@ -5,7 +5,7 @@ tags:
   - Maplibre
 categories:
   - 指南
-cover: 
+cover: https://cdn.jsdelivr.net/gh/chendx97/CPics/img/20250527223929.png
 ---
 
 # 简介
